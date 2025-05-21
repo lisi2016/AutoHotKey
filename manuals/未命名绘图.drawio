@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram id="innovation-points" name="Research-Innovation-Points">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="main-topic" value="AI赋能医药卫生高职教育的&#xa;教学创新与智慧评价" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="435" y="350" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-1" value="理论创新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-2" value="视角创新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="850" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-3" value="方法创新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-4" value="评价创新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="850" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="conn-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="innovation-1" target="main-topic" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="innovation-2" target="main-topic" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="innovation-3" target="main-topic" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="innovation-4" target="main-topic" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="content-1" value="构建&quot;AI赋能教学创新与智慧评价一体化&quot;的理论新框架&#xa;&#xa;• 首次提出教学创新与智慧评价一体化理论框架&#xa;• 强调教学与评价在目标、过程、数据、反馈等层面的深度融合&#xa;• 形成以AI为驱动力、数据为要素的&quot;教-学-评-改&quot;闭环生态系统&#xa;• 针对医药卫生高职人才培养特殊性的定制化理论建构&#xa;• 填补相关领域一体化理论研究的空白" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;align=left;verticalAlign=top;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="content-2" value="深化AI赋能医药卫生高职核心职业能力培养的实践新视角&#xa;&#xa;• 聚焦医药卫生高职学生特有的复杂核心职业能力的AI赋能路径&#xa;• 探索AI在情境化教学、个性化辅导、过程性评价方面的应用&#xa;• 强调AI在临床决策能力、精细化技能、医患沟通能力培养中的作用&#xa;• 将AI定位为复杂职业能力&quot;习得-内化-外显&quot;全过程的智能伙伴&#xa;• 提出AI作为复杂能力精准&quot;度量衡&quot;的新观点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;align=left;verticalAlign=top;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="250" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="content-3" value="探索&quot;理论构建-技术融合-实践验证-迭代优化&quot;多方法融合的研究新路径&#xa;&#xa;• 综合运用文献研究法、调查研究法与案例研究法奠定基础&#xa;• 创新性结合行动研究法与准实验研究法进行实践验证&#xa;• 融入设计研究(DBR)思想实现平台/工具的原型开发与迭代优化&#xa;• 建立理论指导下的设计、实践中的检验、数据驱动的改进循环&#xa;• 形成多方法、多阶段、强实践、重迭代的特色研究范式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=top;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="630" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="content-4" value="突破AI驱动的医药卫生高职学生综合素养评价技术与范式&#xa;&#xa;• 探索AI技术构建多维度、多模态数据的智慧评价模型与工具&#xa;• 创新性评估临床思维过程、沟通技巧、团队协作等隐性素养&#xa;• 运用学习分析、情感计算、行为序列分析、知识图谱等技术&#xa;• 推动评价从&quot;结果导向&quot;向&quot;过程与结果并重&quot;的范式转型&#xa;• 实现显性与隐性素养兼顾的智能化评价机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;align=left;verticalAlign=top;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="630" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="title" value="研究创新点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="435" y="50" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="AI赋能医药卫生高等职业教育的教学创新与智慧评价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="335" y="90" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-1" value="创新点一" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-2" value="创新点二" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="770" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-3" value="创新点三" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-4" value="创新点四" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="770" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="note" value="研究亮点：打通教学创新与智慧评价，形成AI驱动的一体化闭环生态系统，实现医药卫生高职人才培养质量提升" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="185" y="770" width="800" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
