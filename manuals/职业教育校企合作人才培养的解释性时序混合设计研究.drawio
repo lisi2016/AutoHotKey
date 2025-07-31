@@ -77,7 +77,7 @@
           <mxGeometry x="520" y="510" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="39" value="样本：深度访谈样本&lt;br&gt;院校管理者：n=12&lt;br&gt;企业负责人：n=8&lt;br&gt;一线教师：n=15&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2e6;strokeColor=#ff9900;fontSize=13;align=left;" parent="1" vertex="1">
-          <mxGeometry x="520" y="620" width="150" height="100" as="geometry" />
+          <mxGeometry x="520" y="620" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="18" value="阶段三：案例验证&lt;br/&gt;(CASE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="380" width="160" height="50" as="geometry" />
@@ -209,9 +209,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673a6;" parent="1" source="3" target="18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rb4ofKPzOV1c0sCeQp7E-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.503;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="43" target="43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
