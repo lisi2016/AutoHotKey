@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="双重锁定破局路径" id="breakout-paths">
+    <mxGraphModel dx="1420" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A" value="双重锁定破局目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#ff99ff;strokeColor=#333333;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="650" y="50" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B" value="路径一：虚实双轨教学链" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#ccffff;strokeColor=#333333;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C" value="路径二：四方协同机制" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#ffcccc;strokeColor=#333333;align=center;" parent="1" vertex="1">
+          <mxGeometry x="670" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D" value="路径三：技术向善范式" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#ccffcc;strokeColor=#333333;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1" value="需求锚定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#e3f2fd;strokeColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="150" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B2" value="教学实施" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#e3f2fd;strokeColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B11" value="《长沙AI健康技能白皮书》" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="100" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B111" value="卫健委/人社局主导" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B112" value="三诺/圣湘等企业参与" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="100" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B12" value="长沙特色技能库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="220" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B121" value="智慧养老护理员&#xa;(友阿颐养)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="220" y="510" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="B122" value="医疗数据标注师&#xa;(湘江新区)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="220" y="565" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B21" value="虚轨：本土案例仿真&#xa;(三诺血糖仪决策系统)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1f5fe;strokeColor=#0277bd;" parent="1" vertex="1">
+          <mxGeometry x="350" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22" value="实轨：企业真岗实训&#xa;(市中心医院AI导诊调试)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1f5fe;strokeColor=#0277bd;" parent="1" vertex="1">
+          <mxGeometry x="490" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1" value="实体化联盟" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#ffebee;strokeColor=#c62828;" parent="1" vertex="1">
+          <mxGeometry x="690" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C11" value="政府专项基金&#xa;(2000万/年)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="590" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C12" value="企业动力机制：&#xa;高企认定权重≥15%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="700" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C13" value="双师工作站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="810" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C131" value="教师：企业实践≥3月&#xa;→职称晋升" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;align=left;" parent="1" vertex="1">
+          <mxGeometry x="785" y="530" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C132" value="工程师或医务工作者：带薪教学&lt;br&gt;→企业KPI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;align=left;" parent="1" vertex="1">
+          <mxGeometry x="785" y="610" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1" value="长沙版伦理量表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#e8f5e8;strokeColor=#2e7d32;" parent="1" vertex="1">
+          <mxGeometry x="970" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D2" value="本土伦理案例库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#e8f5e8;strokeColor=#2e7d32;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D11" value="数据隐私：&#xa;马王堆社区脱敏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="940" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D12" value="算法公平：&#xa;糖尿病诊断城乡审计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D21" value="智慧养老院&#xa;隐私泄露应急" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffeaa7;strokeColor=#fdcb6e;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#333333;" parent="1" source="A" target="B" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#333333;" parent="1" source="A" target="C" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#333333;" parent="1" source="A" target="D" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B" target="B1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B" target="B2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B1" target="B11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B1" target="B12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C" target="C1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C1" target="C11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C1" target="C12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C1" target="C13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D" target="D1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D" target="D2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D1" target="D11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D1" target="D12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2" target="D21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="B11" target="B111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="B111" target="B112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="B12" target="B121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="B121" target="B122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="C13" target="C131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#fdcb6e;fontSize=13;" parent="1" source="C131" target="C132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B2" target="B21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B2" target="B22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="title" value="职业教育双重锁定破局的三路径协同机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f8f9fa;strokeColor=#343a40;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="550" y="10" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="path-description" value="路径特色说明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#37474f;" parent="1" vertex="1">
+          <mxGeometry x="100" y="640" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="description-content" value="• 路径一（需求导向）：以长沙本土产业需求为锚点，构建虚实双轨教学体系&#xa;• 路径二（制度创新）：政府-企业-高校-医院四方协同，破解合作机制僵化&#xa;• 路径三（伦理治理）：技术向善理念融入，构建地域化AI伦理治理框架&#xa;• 地域适配：所有路径均体现长沙特色，实现供需精准匹配" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=15;spacingLeft=10;spacingTop=10;" parent="1" vertex="1">
+          <mxGeometry x="100" y="640" width="610" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
