@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="双重锁定恶性循环机制" id="lock-cycle">
+    <mxGraphModel dx="1420" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="职业教育校企合作中的双重锁定恶性循环机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f8f9fa;strokeColor=#343a40;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="200" y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="internal-lock" value="校内能力锁定&#xa;(Internal Capability Lock-in)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#e3f2fd;strokeColor=#1976d2;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="external-lock" value="校外机会锁定&#xa;(External Opportunity Lock-in)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#fff3e0;strokeColor=#f57c00;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="690" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node1" value="教师脱离产业&#xa;Teacher-Industry&#xa;Disconnection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f3e5f5;strokeColor=#7b1fa2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node2" value="课程内容滞后&#xa;Curriculum&#xa;Lag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f3e5f5;strokeColor=#7b1fa2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node3" value="人才技能缺陷&#xa;Talent Skill&#xa;Deficiency" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f3e5f5;strokeColor=#7b1fa2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="770" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node4" value="数据/场景缺失&#xa;Data/Scenario&#xa;Deficiency" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e8f5e8;strokeColor=#388e3c;align=center;" parent="1" vertex="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node5" value="企业拒斥合作&#xa;Enterprise&#xa;Cooperation Rejection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e8f5e8;strokeColor=#388e3c;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="node6" value="合作机制僵化&#xa;Cooperation&#xa;Mechanism Rigidity" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e8f5e8;strokeColor=#388e3c;align=center;" parent="1" vertex="1">
+          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1976d2;" parent="1" source="internal-lock" target="node1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1976d2;" parent="1" source="node1" target="node2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0.167;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#d32f2f;entryPerimeter=0;" parent="1" source="node3" target="external-lock" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#f57c00;" parent="1" source="external-lock" target="node5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#f57c00;" parent="1" source="node4" target="node6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.295;entryY=1.033;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#d32f2f;entryPerimeter=0;" parent="1" source="node6" target="internal-lock" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="center-cycle" value="恶性循环&#xa;Vicious Cycle" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=#ffebee;strokeColor=#c62828;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mechanism-title" value="循环机制说明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontColor=#37474f;" parent="1" vertex="1">
+          <mxGeometry x="50" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mechanism-text" value="• 校内锁定路径（蓝色）：能力固化 → 产教脱节 → 技能缺陷&#xa;• 校外锁定路径（橙色）：机会缺失 → 合作排斥 → 机制僵化&#xa;• 互构加强（红色）：两种锁定相互强化，形成自我增强循环&#xa;• 循环后果：供需错位持续恶化，破解难度不断增大" style="text;html=1;strokeColor=#90a4ae;fillColor=#f8f9fa;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=13;spacingLeft=10;spacingTop=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="440" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-title" value="图例 Legend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontColor=#37474f;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend1" value="校内锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e3f2fd;strokeColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="125" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend2" value="校外锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff3e0;strokeColor=#f57c00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="125" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldYuD3GYP1EdfvE1DNKJ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1976d2;" edge="1" parent="1" target="node3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="179.5" as="sourcePoint" />
+            <mxPoint x="760" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldYuD3GYP1EdfvE1DNKJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="node6" target="node6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldYuD3GYP1EdfvE1DNKJ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#f57c00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="379.5" as="sourcePoint" />
+            <mxPoint x="470" y="379.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
