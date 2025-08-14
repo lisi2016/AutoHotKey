@@ -1,0 +1,223 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="diagram-1">
+    <mxGraphModel dx="1420" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="研究问题总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="40" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rq1" value="RQ1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fontWeight=bold;fontSize=16;fontStyle=1;fillColor=#42a5f5;strokeColor=#2196f3;" parent="1" vertex="1">
+          <mxGeometry x="85" y="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq1-label" value="数字化转型背景下的需求与挑战；构建多维需求画像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="80" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1.1" value="Q1.1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#bbdefb;strokeColor=#2196f3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="65" y="190" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1.1-label" value="影响需求的关键维度及其度量指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="220" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q1.1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#2196f3;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="145" as="sourcePoint" />
+            <mxPoint x="215" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1.2" value="Q1.2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#bbdefb;strokeColor=#2196f3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="65" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1.2-label" value="不同机构与学习者群体在上述维度上的需求差异" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q1.2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#2196f3;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="215" as="sourcePoint" />
+            <mxPoint x="215" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1.3" value="Q1.3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#bbdefb;strokeColor=#2196f3;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="65" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1.3-label" value="将需求差异转化为课程设计要点与资源配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="360" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q1.3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#2196f3;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="285" as="sourcePoint" />
+            <mxPoint x="215" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq2" value="RQ2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fontWeight=bold;fontSize=16;fontStyle=1;fillColor=#66bb6a;strokeColor=#4caf50;" parent="1" vertex="1">
+          <mxGeometry x="435" y="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq2-label" value="数字化转型对教学效率与学习公平性的影响机制与证据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="350" y="140" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2.1" value="Q2.1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="415" y="190" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2.1-label" value="在线教学等数字化要素对学习时长、完成率、学习成效的边际贡献" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="345" y="230" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q2.1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="145" as="sourcePoint" />
+            <mxPoint x="565" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2.2" value="Q2.2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="415" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2.2-label" value="不同人群在学习公平性方面的差异及成因" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="335" y="290" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q2.2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="215" as="sourcePoint" />
+            <mxPoint x="565" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2.3" value="Q2.3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="415" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2.3-label" value="可通过干预策略缓解的偏差或不平等现象及效果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="315" y="360" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q2.3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="285" as="sourcePoint" />
+            <mxPoint x="565" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq3" value="RQ3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fontWeight=bold;fontSize=16;fontStyle=1;fillColor=#9c27b0;strokeColor=#6a1b9a;" parent="1" vertex="1">
+          <mxGeometry x="785" y="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3-label" value="多元数字化教学模式的有效性与适配性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="700" y="140" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3.1" value="Q3.1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#d1c4e9;strokeColor=#6a1b9a;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="755" y="190" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q3.1-label" value="四种模式各自的学习成效指标（知识掌握、技能提升、应用能力、学习动机等）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="665" y="220" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q3.1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#6a1b9a;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="145" as="sourcePoint" />
+            <mxPoint x="885" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3.2" value="Q3.2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#d1c4e9;strokeColor=#6a1b9a;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="755" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q3.2-label" value="四种模式的组合使用在不同情境中的协同效应与最优组合路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="645" y="290" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q3.2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#6a1b9a;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="215" as="sourcePoint" />
+            <mxPoint x="885" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3.3" value="Q3.3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#d1c4e9;strokeColor=#6a1b9a;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="755" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q3.3-label" value="影响多元模式有效性的关键因素（师资能力、平台设计、评估工具、&lt;div&gt;学习者元认知等）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q3.3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#6a1b9a;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="285" as="sourcePoint" />
+            <mxPoint x="885" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq4" value="RQ4" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fontWeight=bold;fontSize=16;fontStyle=1;fillColor=#ef5350;strokeColor=#d32f2f;" parent="1" vertex="1">
+          <mxGeometry x="260" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq4-label" value="数字化课程模块与评估工具的落地性与实施路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="150" y="470" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q4.1" value="Q4.1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="245" y="520" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4.1-label" value="可执行的数字化课程模块的核心要素与结构要点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="135" y="550" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q4.1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d32f2f;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="475" as="sourcePoint" />
+            <mxPoint x="375" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4.2" value="Q4.2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="245" y="590" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4.2-label" value="评估工具的信度与效度保障在实际情境中的稳定性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="110" y="620" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q4.2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d32f2f;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="545" as="sourcePoint" />
+            <mxPoint x="375" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4.3" value="Q4.3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="245" y="660" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4.3-label" value="推动落地实施的关键条件、政策支持与组织变革要点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="690" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q4.3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d32f2f;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="615" as="sourcePoint" />
+            <mxPoint x="375" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq5" value="RQ5" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fontWeight=bold;fontSize=16;fontStyle=1;fillColor=#81c784;strokeColor=#4caf50;" parent="1" vertex="1">
+          <mxGeometry x="610" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq5-label" value="数字化转型矩阵与动态个性化路径的实证有效性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="500" y="470" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5.1" value="Q5.1" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="575" y="520" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5.1-label" value="矩阵的适配性、可操作性及预测能力的量化评估" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="480" y="560" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q5.1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="475" as="sourcePoint" />
+            <mxPoint x="705" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5.2" value="Q5.2" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="575" y="590" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5.2-label" value="基于学习者数据的动态个性化路径对成效与满意度的提升幅度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="465" y="620" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q5.2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="545" as="sourcePoint" />
+            <mxPoint x="705" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5.3" value="Q5.3" style="rounded=0;whiteSpace=wrap;overflow=hidden;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="575" y="660" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5.3-label" value="跨学科理论融合的增益与局限性的权衡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="460" y="690" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-q5.3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#4caf50;" parent="1" edge="1">
+          <mxGeometry width="130" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="615" as="sourcePoint" />
+            <mxPoint x="705" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
