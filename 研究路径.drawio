@@ -1,0 +1,191 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="diagram-1">
+    <mxGraphModel dx="1420" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="&amp;nbsp;研究路径流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="research-start" value="研究问题提出&#xa;数字化转型现状与挑战" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0288d1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stage1-title" value="第一阶段：现状调研与需求分析" style="text;html=1;strokeColor=none;fillColor=#bbdefb;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-box" value="RQ1: 数字化转型现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;strokeColor=#2196f3;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1-methods" value="• 问卷调查（Q1.1）&#xa;• 深度访谈（Q1.2）&#xa;• 混合方法研究（Q1.3）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="stage2-title" value="第二阶段：影响机制探索" style="text;html=1;strokeColor=none;fillColor=#c8e6c9;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2-box" value="RQ2: 数字化转型影响因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2-methods" value="• 实验研究（Q2.1）&#xa;• 结构方程模型（Q2.2）&#xa;• 案例比较（Q2.3）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="350" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="stage3-title" value="第三阶段：优化策略设计" style="text;html=1;strokeColor=none;fillColor=#d1c4e9;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q3-box" value="RQ3: 数字化转型优化策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d1c4e9;strokeColor=#6a1b9a;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3-methods" value="• 实验验证（Q3.1）&#xa;• 优化算法（Q3.2）&#xa;• 路径分析（Q3.3）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="620" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="stage4-title" value="第四阶段：评估工具构建" style="text;html=1;strokeColor=none;fillColor=#ffcdd2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4-box" value="RQ4: 数字化转型评估工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q4-methods" value="• 工具设计（Q4.1）&#xa;• 可靠性验证（Q4.2）&#xa;• 政策分析（Q4.3）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="890" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="stage5-title" value="第五阶段：综合应用与验证" style="text;html=1;strokeColor=none;fillColor=#c8e6c9;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5-box" value="RQ5: 数字化转型综合应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#4caf50;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5-methods" value="• 模拟仿真（Q5.1）&#xa;• 实证验证（Q5.2）&#xa;• 理论综合（Q5.3）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="final-outputs" value="研究产出与贡献" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="400" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="output-details" value="• 数字化转型理论模型&#xa;• 影响因素识别框架&#xa;• 优化策略设计方法&#xa;• 效果评估工具体系&#xa;• 实践应用指导原则" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="650" y="480" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow-start-to-stage1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#1976d2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="140" as="sourcePoint" />
+            <mxPoint x="150" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage1-to-stage2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#388e3c;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage2-to-stage3" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#7b1fa2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage3-to-stage4" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#c62828;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="250" as="sourcePoint" />
+            <mxPoint x="890" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage4-to-stage5" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#388e3c;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="250" as="sourcePoint" />
+            <mxPoint x="1160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage1-to-output" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#1976d2;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="700" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage2-to-output" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#388e3c;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="750" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage3-to-output" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#7b1fa2;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="330" as="sourcePoint" />
+            <mxPoint x="780" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage4-to-output" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#c62828;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow-stage5-to-output" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#388e3c;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="330" as="sourcePoint" />
+            <mxPoint x="900" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feedback-arrow1" value="反馈优化" style="endArrow=block;html=1;rounded=1;strokeWidth=1.5;strokeColor=#ff5722;dashed=1;curved=1;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="270" as="sourcePoint" />
+            <mxPoint x="220" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="360" />
+              <mxPoint x="220" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="method-legend" value="研究方法图例" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="529" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-quantitative" value="定量研究：问卷调查、实验研究、统计分析" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="50" y="569" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-qualitative" value="定性研究：深度访谈、案例研究、内容分析" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="50" y="594" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-mixed" value="混合方法：定量+定性、理论+实证、设计+验证" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="50" y="619" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="timeline-title" value="研究时间轴" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1109" y="528" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="timeline-year1" value="第1年：现状调研与需求分析" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1109" y="568" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="timeline-year2" value="第2年：影响机制与优化策略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1109" y="593" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="timeline-year3" value="第3年：评估工具与综合应用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1109" y="618" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="logic-explanation" value="研究逻辑：现状调研 → 机制探索 → 策略设计 → 工具构建 → 综合应用 → 反馈优化" style="text;html=1;strokeColor=none;fillColor=#e8f5e8;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="600" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-point1" value="创新1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffeb3b;strokeColor=#f57f17;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="270" y="220" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-point2" value="创新2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffeb3b;strokeColor=#f57f17;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="540" y="220" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-point3" value="创新3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffeb3b;strokeColor=#f57f17;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="810" y="220" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="innovation-point4" value="创新4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffeb3b;strokeColor=#f57f17;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="220" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="data-flow-line" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1;strokeColor=#666666;dashed=1;" parent="1" edge="1" source="data-flow-label">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="350" as="sourcePoint" />
+            <mxPoint x="1250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk2X9RSUUeYeKIX4_uJz-1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1;strokeColor=#666666;dashed=1;" edge="1" parent="1" target="data-flow-label">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="350" as="sourcePoint" />
+            <mxPoint x="1250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="data-flow-label" value="数据流动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="780" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
