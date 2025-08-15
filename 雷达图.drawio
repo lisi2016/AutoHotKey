@@ -1,0 +1,199 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="diagram-1">
+    <mxGraphModel dx="1420" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" value="0" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="694" y="378" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="circle-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e0e0e0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="514" y="198" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="circle-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e0e0e0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="238" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="circle-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e0e0e0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="594" y="278" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="circle-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e0e0e0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="634" y="318" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="circle-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#e0e0e0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="674" y="358" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axis-1" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="714" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axis-2" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="887" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axis-3" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="887" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axis-4" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="714" y="598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axis-5" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="541" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axis-6" value="" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="398" as="sourcePoint" />
+            <mxPoint x="541" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="point-1" value="2.1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff5722;strokeColor=#d84315;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="704" y="314" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="point-2" value="3.8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#2e7d32;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="845" y="324" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="point-3" value="2.6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#f57c00;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="818" y="454" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="point-4" value="2.8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#f57c00;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="704" y="486" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="point-5" value="2.4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#f57c00;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="578" y="454" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="point-6" value="1.9" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f44336;strokeColor=#c62828;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="578" y="324" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="radar-line-1" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;fillColor=#2196f3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="324" as="sourcePoint" />
+            <mxPoint x="855" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="radar-line-2" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="334" as="sourcePoint" />
+            <mxPoint x="828" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="radar-line-3" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="828" y="464" as="sourcePoint" />
+            <mxPoint x="714" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="radar-line-4" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="496" as="sourcePoint" />
+            <mxPoint x="588" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="radar-line-5" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="464" as="sourcePoint" />
+            <mxPoint x="588" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="radar-line-6" value="" style="endArrow=none;html=1;strokeColor=#2196f3;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="334" as="sourcePoint" />
+            <mxPoint x="714" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label-1" value="战略规划协同" style="text;html=1;strokeColor=none;fillColor=#ffebee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="644" y="148" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-2" value="技术硬件基础" style="text;html=1;strokeColor=none;fillColor=#e8f5e8;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="894" y="268" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-3" value="教学模式创新" style="text;html=1;strokeColor=none;fillColor=#fff3e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="834" y="518" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-4" value="数字资源建设" style="text;html=1;strokeColor=none;fillColor=#fff3e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="644" y="618" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-5" value="组织支持体系" style="text;html=1;strokeColor=none;fillColor=#fff3e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="434" y="518" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="label-6" value="评价激励机制" style="text;html=1;strokeColor=none;fillColor=#ffebee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="434" y="268" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="scale-5" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="724" y="193" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scale-4" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="724" y="233" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scale-3" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="724" y="273" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scale-2" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="724" y="313" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="scale-1" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="724" y="353" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="radar-fill" value="" style="shape=mxgraph.basic.polygon;points=[[0.5,0.08],[0.85,0.32],[0.82,0.66],[0.5,0.78],[0.18,0.66],[0.15,0.32]];fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="514" y="198" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="data-table-title" value="各维度得分详情" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="999" y="198" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="table-header" value="维度 | 得分 | 问题严重程度" style="text;html=1;strokeColor=#333333;fillColor=#e0e0e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="999" y="238" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="row-1" value="战略规划协同 | 2.1 | 高" style="text;html=1;strokeColor=#333333;fillColor=#ffebee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="263" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="row-2" value="评价激励机制 | 1.9 | 极高" style="text;html=1;strokeColor=#333333;fillColor=#ffcdd2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="283" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="row-3" value="组织支持体系 | 2.4 | 高" style="text;html=1;strokeColor=#333333;fillColor=#fff3e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="303" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="row-4" value="教学模式创新 | 2.6 | 中高" style="text;html=1;strokeColor=#333333;fillColor=#fff3e0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="323" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="row-5" value="数字资源建设 | 2.8 | 中" style="text;html=1;strokeColor=#333333;fillColor=#fff8e1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="343" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="row-6" value="技术硬件基础 | 3.8 | 低" style="text;html=1;strokeColor=#333333;fillColor=#e8f5e8;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="363" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-title" value="图例说明" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="999" y="418" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-extreme" value="■ 极高风险 (1.0-2.0)" style="text;html=1;strokeColor=none;fillColor=#ffcdd2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="448" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-high" value="■ 高风险 (2.0-2.5)" style="text;html=1;strokeColor=none;fillColor=#ffebee;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="473" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-medium-high" value="■ 中高风险 (2.5-3.0)" style="text;html=1;strokeColor=none;fillColor=#fff3e0;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="498" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-low" value="■ 低风险 (3.5-5.0)" style="text;html=1;strokeColor=none;fillColor=#e8f5e8;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="999" y="523" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="data-source" value="数据来源：问卷调查(N=468) + 深度访谈(N=25)" style="text;html=1;strokeColor=#666666;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontColor=#777777;" parent="1" vertex="1">
+          <mxGeometry x="504" y="660" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="significance" value="* 各维度差异具有统计学意义 (p&amp;lt;0.001)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontColor=#d32f2f;" parent="1" vertex="1">
+          <mxGeometry x="504" y="685" width="400" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
